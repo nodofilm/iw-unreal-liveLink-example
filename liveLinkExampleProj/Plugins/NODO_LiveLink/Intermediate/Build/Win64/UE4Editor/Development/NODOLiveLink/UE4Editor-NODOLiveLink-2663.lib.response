@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NODOLiveLink-2663.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\VanishingPoint\AlphaWheels\Unreal\NODO\Intermediate\Build\Win64\NODOEditor\Development\Engine\SharedPCH.Engine.RTTI.NoUndef.h.obj"
+"D:\VanishingPoint\AlphaWheels\Unreal\NODO\Plugins\NODO_LiveLink\Intermediate\Build\Win64\UE4Editor\Development\NODOLiveLink\Module.NODOLiveLink.cpp.obj"
+"D:\VanishingPoint\AlphaWheels\Unreal\NODO\Plugins\NODO_LiveLink\Intermediate\Build\Win64\UE4Editor\Development\NODOLiveLink\Module.NODOLiveLink.gen.cpp.obj"
+"D:\VanishingPoint\AlphaWheels\Unreal\NODO\Plugins\NODO_LiveLink\Intermediate\Build\Win64\UE4Editor\Development\NODOLiveLink\Default.rc2.res"
+/OUT:"D:\VanishingPoint\AlphaWheels\Unreal\NODO\Plugins\NODO_LiveLink\Intermediate\Build\Win64\UE4Editor\Development\NODOLiveLink\UE4Editor-NODOLiveLink-2663.lib"
+/INCLUDE:IMPLEMENT_MODULE_NODOLiveLink

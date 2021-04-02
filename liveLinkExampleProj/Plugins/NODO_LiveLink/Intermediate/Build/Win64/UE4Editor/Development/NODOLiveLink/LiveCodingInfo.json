@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NODOLiveLink.cpp.obj": [
+			"InertiaWheels.cpp.obj",
+			"NODOLiveLink.cpp.obj",
+			"NODOLiveLinkSource.cpp.obj",
+			"NODOLiveLinkSourceFactory.cpp.obj",
+			"PublicFunctions.cpp.obj",
+			"SNODOLiveLinkSourceFactory.cpp.obj",
+			"VSerialPort.cpp.obj"
+		],
+		"Module.NODOLiveLink.gen.cpp.obj": [
+			"InertiaWheels.gen.cpp.obj",
+			"NODOLiveLink.init.gen.cpp.obj",
+			"NODOLiveLinkSourceFactory.gen.cpp.obj",
+			"PublicFunctions.gen.cpp.obj"
+		]
+	}
+}
